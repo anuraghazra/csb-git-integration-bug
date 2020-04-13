@@ -10,6 +10,8 @@ export default function App() {
         After changing some content and committing the changes, the modal does
         close automatically
       </p>
+
+      <p>some changes</p>
     </div>
   );
 }
